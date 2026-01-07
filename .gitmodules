@@ -1,6 +1,6 @@
 [submodule "kermanol"]
-	path = madules/kermanol
+	path = kermanol
 	url = https://github.com/pnkweb-op1/e1.git
 [submodule "pnk"]
-	path = madules/pnk
+	path = pnk
 	url = https://github.com/pnkweb-op1/e2.git
